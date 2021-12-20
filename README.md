@@ -1,6 +1,6 @@
 <a href="#"><img width="80%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="125px"/></a>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">I'm Nurul Ismat Tanni</h1>
-<h3 align="center">I'm a Software Engineer Student</h3>
+<h3 align="center">I'm a Software Engineering Student</h3>
 
 I'm now enrolled in Universiti Teknologi Malaysia (UTM) as a software engineering student and a web developer. My love for software is in coming up with new ideas and turning them into reality via the use of beautiful interfaces. I put a lot of thought into the user experience, architecture, and code quality of the things I make. In addition, I am an open-source fan and user. I learned a lot from the open-source community, and I admire how open-source facilitates cooperation and information exchange.
 
