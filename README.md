@@ -14,26 +14,36 @@ I'm now enrolled in Universiti Teknologi Malaysia (UTM) as a software engineerin
 - 💬 Ask me about Software analysis, architecture, implementation, testing and also Dart, Flutter, Java, JavaScript, Python 
 - 📫 How to reach me: ismattanni@gmail.com </br>
 
-### 🚀 Languages and Tools:
+### 🛠 Languages
+<div align="left">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" />
+<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jquery" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html" />
+<img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css" />
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white" alt="java" />
+<img src="https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="php" />
+<img src="https://img.shields.io/badge/SQL-407AFC?style=for-the-badge&logo=icloud&logoColor=white" alt="sql" />
+</div>
 
-<p align="left"> 
-    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
-    <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/> </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"                alt="mongodb" width="48" height="48"/> </a> 
-    <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
-    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-    <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="48" height="48"/> </a> 
-    <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
-</p>
+<br/>
+
+### 🖥 Tools
+<div align="left">
+<img src="https://img.shields.io/badge/brackets-336791?style=for-the-badge&logo=RTLZWEI&logoColor=white" alt="brackets" />
+<img src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white" alt="Atom" />
+<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=Adobe Photoshop&logoColor=white" alt="Photoshop" />
+<img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=Adobe Illustrator&logoColor=white" alt="Illustrator" />
+<img src="https://img.shields.io/badge/Gnuboard-00A672?style=for-the-badge&logo=Gitee&logoColor=white" alt="Gnuboard" />
+<img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse IDE&logoColor=white" alt="Eclipse" />
+<img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=for-the-badge&logo=Visual Studio&logoColor=white" alt="Visual Studio" />
+<img src="https://img.shields.io/badge/vs%20code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vs code" />
+<img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" />
+<img src="https://img.shields.io/badge/FileZilla-BF0000?style=for-the-badge&logo=FileZilla&logoColor=white" alt="FileZilla" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" alt="MySQL" />
+<img src="https://img.shields.io/badge/GitHub-%2324292e?style=for-the-badge&logo=github&logoColor=white" alt="github" />
+</div>
+
+<br/>
 
 ### 🚀 Social Media:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/ismat-tanni)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/nurul-ismat-tanni-40b0a5148//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/NurulIsmat)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg' alt='codesandbox' height='40'>](https://codesandbox.io/u/https://codesandbox.io/u/ismat-tanni)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/13546259/nurul-ismat-tanni)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://sites.google.com/view/nurul-ismat)  
