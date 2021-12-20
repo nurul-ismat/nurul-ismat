@@ -42,7 +42,11 @@ and I'm currently a software engineering student at Universiti Teknologi Malaysi
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 <br/>
-
-
+## ❤ Views and Followers
+</br>
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=ismat-tanni">
+</a>
+<a href="https://github.com/ismat-tanni?tab=followers"><img src="https://img.shields.io/github/followers/ismat-tanni?label=Followers&style=social" alt="GitHub Badge"></a>
 
 
