@@ -56,10 +56,9 @@ I'm now enrolled in Universiti Teknologi Malaysia (UTM) as a software engineerin
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 <br/>
 
-### ❤ Views and Followers
+### ❤ Views
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-<img src="https://komarev.com/ghpvc/?username=ismat-tanni">
-</a>
-<a href="https://github.com/ismat-tanni?tab=followers"><img src="https://img.shields.io/github/followers/ismat-tanni?label=Followers&style=social" alt="GitHub Badge"></a>
-
+<img src="https://komarev.com/ghpvc/?username=ismat-tanni"></a>
+<br/>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ismat-tanni" alt="ismat-tanni" /></a> </p>
 
