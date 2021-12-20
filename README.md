@@ -11,4 +11,4 @@
 - ✅ Language: [C++, HTML5, CSS3, PHP, Bootstrap, Javascript, Java, Dart, Flutter, Python]
 - ✅ Database: [MongoDB, Sqlite, MySQL]
 - ✅ CMS     : [Wordpress]
-- ✅ Tools   : [Git, VS code, Trello, Android Studio, Adobe XD, Figma, Dart Dev Tool]
+- ✅ Tools   : [Enterprise Architect, Git, VS code, Trello, Android Studio, Adobe XD, Figma, Dart Dev Tool]
