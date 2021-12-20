@@ -8,3 +8,7 @@
 - 📫 How to reach me: ismattanni@gmail.com or visit me https://sites.google.com/view/nurul-ismat
 
 ## 👨‍💻 Skills & Experience:
+- ✅ Language: [C++, HTML5, CSS3, PHP, Bootstrap, Javascript, Java, Dart, Flutter, Python]
+- ✅ Database: [MongoDB, Sqlite, MySQL]
+- ✅ CMS     : [Wordpress]
+- ✅ Tools   : [Git, VS code, Trello, Android Studio, Adobe XD, Figma, Dart Dev Tool]
