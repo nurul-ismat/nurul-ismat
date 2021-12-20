@@ -5,6 +5,7 @@ and I'm currently a software engineering student at Universiti Teknologi Malaysi
 
 - 🔭 I’m currently working on UTM Course Management System
 - 🌱 I’m currently learning Python, Dart & Flutter 
+- 👨‍💻 All of my projects are available at My Portfolio
 - 👯 I’m looking to collaborate on Software Development and Web Development 
 - 🤔 I’m looking for help with Software Development and Web Development 
 - 💬 Ask me about Software analysis, architecture, implementation, testing and also Dart, Flutter, Java, JavaScript, Python 
