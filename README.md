@@ -1,6 +1,6 @@
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">I'm Nurul Ismat Tanni</h1>
-<h3 align="center">I'm a Software Engineering Student</h3>
+<h3 align="center">Software Engineering Student</h3>
 
 ## 🙋‍♀️ About Me
 
