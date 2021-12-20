@@ -35,17 +35,16 @@ and I'm currently a software engineering student at Universiti Teknologi Malaysi
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/ismat-tanni)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/nurul-ismat-tanni-40b0a5148//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/NurulIsmat)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg' alt='codesandbox' height='40'>](https://codesandbox.io/u/https://codesandbox.io/u/ismat-tanni)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/13546259/nurul-ismat-tanni)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://sites.google.com/view/nurul-ismat)  
 
 ## 📊 My Github Stats
-
   <br/>
     <a href="https://github.com/ismat-tanni/github-readme-stats"><img alt="ismat-tanni's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ismat-tanni&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/ismat-tanni/github-readme-stats"><img alt="ismat-tanni's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismat-tanni&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 <br/>
-## ❤ Views and Followers
-</br>
+
+### ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=ismat-tanni">
+<img src="https://komarev.com/ghpvc/?username=ismat-tanni">
 </a>
 <a href="https://github.com/ismat-tanni?tab=followers"><img src="https://img.shields.io/github/followers/ismat-tanni?label=Followers&style=social" alt="GitHub Badge"></a>
 
