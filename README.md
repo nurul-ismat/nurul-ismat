@@ -56,10 +56,6 @@ I'm now enrolled in Universiti Teknologi Malaysia (UTM) as a software engineerin
 <br/>
 <br/>
 
-<a href="https://github.com/ismat-tanni/github-readme-activity-graph"><img alt="ismat-tanni's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ismat-tanni&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-<br/>
-<br/>
-
 ### ❤ Views
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
 <img src="https://komarev.com/ghpvc/?username=ismat-tanni"></a>
