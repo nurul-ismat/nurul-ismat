@@ -14,7 +14,7 @@ I'm now enrolled in Universiti Teknologi Malaysia (UTM) as a software engineerin
 - 💬 Ask me about Software analysis, architecture, implementation, testing and also Dart, Flutter, Java, JavaScript, Python 
 - 📫 How to reach me: ismattanni@gmail.com </br>
 
-### 🛠 Languages
+### 🛠 Platforms & Languages
 <div align="left">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" />
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jquery" />
@@ -25,6 +25,9 @@ I'm now enrolled in Universiti Teknologi Malaysia (UTM) as a software engineerin
 <img src="https://img.shields.io/badge/SQL-407AFC?style=for-the-badge&logo=icloud&logoColor=white" alt="sql" />
 <img src="https://img.shields.io/badge/C++-007396?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
 <img src="https://img.shields.io/badge/Python3-306998?style=for-the-badge&logo=python&logoColor=white" alt="Python3" />
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white"/>
+<img src="https://img.shields.io/badge/ReactNative-61DAFB?style=for-the-badge&logo=React&logoColor=black"/>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white"/>
 </div>
 
 <br/>
