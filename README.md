@@ -14,7 +14,7 @@ I'm now enrolled in Universiti Teknologi Malaysia (UTM) as a software engineerin
 - 💬 Ask me about Software analysis, architecture, implementation, testing and also Dart, Flutter, Java, JavaScript, Python 
 - 📫 How to reach me: ismattanni@gmail.com </br>
 
-### 🛠 Platforms & Languages
+### 🛠 Languages & Platforms 
 <div align="left">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" />
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jquery" />
