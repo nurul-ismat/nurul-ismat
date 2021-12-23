@@ -8,7 +8,7 @@ I'm now enrolled in Universiti Teknologi Malaysia (UTM) as a software engineerin
 
 - 🔭 I’m currently working on UTM Course Management System
 - 🌱 I’m currently learning Python, Dart & Flutter 
-- 👨‍💻 All of my projects are available at https://github.com/ismat-tanni?tab=projects
+- 👨‍💻 All of my researches & projects are available at https://github.com/ismat-tanni?tab=projects
 - 👯 I’m looking to collaborate on Software Development and Web Development 
 - 🤔 I’m looking for help with Software Development and Web Development 
 - 💬 Ask me about Software analysis, architecture, implementation, testing and also Dart, Flutter, Java, JavaScript, Python 
