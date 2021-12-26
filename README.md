@@ -16,6 +16,7 @@ I'm now enrolled in Universiti Teknologi Malaysia (UTM) as a software engineerin
 
 ### 🛠 Languages & Platforms 
 <div align="left">
+<img src="https://img.icons8.com/color/50/000000/python" alt="python" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" />
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jquery" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html" />
