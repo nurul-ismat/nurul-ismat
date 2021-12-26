@@ -16,7 +16,7 @@ I'm now enrolled in Universiti Teknologi Malaysia (UTM) as a software engineerin
 
 ### 🛠 Languages & Platforms 
 <div align="left">
-<img src="https://img.icons8.com/color/50/000000/python" alt="python" />
+<img src="https://img.icons8.com/color/50/000000/python" alt="python" height=28 width=48 />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" />
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jquery" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html" />
@@ -29,6 +29,7 @@ I'm now enrolled in Universiti Teknologi Malaysia (UTM) as a software engineerin
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white"/>
 <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=for-the-badge&logo=React&logoColor=black"/>
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white"/>
+<img src="https://editor.analyticsvidhya.com/uploads/232202.png" height=28 width=48/>
 </div>
 
 <br/>
