@@ -4,7 +4,7 @@
 
 ## 🙋‍♀️ About Me
 
-I'm now enrolled in Universiti Teknologi Malaysia (UTM) as a software engineering student and a Web Developer. My love for software is in coming up with new ideas and turning them into reality via the use of beautiful interfaces. I put a lot of thought into the user experience, architecture, and code quality of the things I make. In addition, I am an open-source fan and user. I learned a lot from the open-source community, and I admire how open-source facilitates cooperation and information exchange.
+I'm now enrolled in Universiti Teknologi Malaysia (UTM) as a software engineering student and I'm a Web Developer. My love for software is in coming up with new ideas and turning them into reality via the use of beautiful interfaces. I put a lot of thought into the user experience, architecture, and code quality of the things I make. In addition, I am an open-source fan and user. I learned a lot from the open-source community, and I admire how open-source facilitates cooperation and information exchange.
 
 - 🔭 I’m currently working on UTM Course Management System's System Development
 - 🌱 I’m currently learning Python, Java
