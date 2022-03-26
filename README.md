@@ -6,8 +6,8 @@
 
 I'm now enrolled in Universiti Teknologi Malaysia (UTM) as a software engineering student and a web developer. My love for software is in coming up with new ideas and turning them into reality via the use of beautiful interfaces. I put a lot of thought into the user experience, architecture, and code quality of the things I make. In addition, I am an open-source fan and user. I learned a lot from the open-source community, and I admire how open-source facilitates cooperation and information exchange.
 
-- 🔭 I’m currently working on UTM Course Management System
-- 🌱 I’m currently learning Python, Dart & Flutter 
+- 🔭 I’m currently working on UTM Course Management System's System Development
+- 🌱 I’m currently learning Python, Java
 - 👨‍💻 All of my researches & projects are available at https://github.com/ismat-tanni?tab=projects
 - 👯 I’m looking to collaborate on Software Development and Web Development 
 - 🤔 I’m looking for help with Software Development and Web Development 
