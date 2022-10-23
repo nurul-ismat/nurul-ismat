@@ -8,8 +8,8 @@ I'm now enrolled in Universiti Teknologi Malaysia (UTM) as a software engineerin
 
 - 👨‍ Internship: Universiti Teknologi Malaysia, Kualalumpur, Under CPSRG (Cyber Physical System Research Group).
 - 🔭 Internship Scope: Software Engineering (Software Development, Software Maintenance, Artificial Intelligent System ,Embedded Real Time Software, Algorithm)
-- 🔭 I’m currently working on Faculty of Computing Undergraduate Course Management System's System Development using PhP Laravel.
-- 🌱 I’m currently learning Python, Java, Data Science
+- 🔭 Final Year Project was Course Management System's System Development using PhP Laravel Framework.
+- 🌱 I’m currently learning Python, Java, Data Science.
 - 👨‍💻 All of my researches & projects are available at https://github.com/ismat-tanni?tab=projects
 - 👯 I’m looking to collaborate on Software Development and Web Development 
 - 🤔 I’m looking for help with Software Development and Web Development 
