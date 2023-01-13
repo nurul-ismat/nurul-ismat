@@ -52,7 +52,7 @@ I'm now enrolled in Universiti Teknologi Malaysia (UTM) as a software engineerin
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-%2324292e?style=for-the-badge&logo=github&logoColor=white" alt="github" />
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white" alt="MongoBD" />
-<img src="https://img.shields.io/badge/ReactiveX-B7178C?style=for-the-badge&logo=ReactiveX&logoColor=white"/>
+<img src="https://img.shields.io/badge/ReactiveX-B7178C?style=for-the-badge&logo=ReactJS&logoColor=white"/>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=black"/>
 </div>
 
