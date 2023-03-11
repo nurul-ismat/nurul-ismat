@@ -68,13 +68,22 @@ I'm now enrolled in Universiti Teknologi Malaysia (UTM) as a software engineerin
 | Content Creator            | YouTube                                     | Jan 2016- Running   | Malaysia                  |
 
 <br />
+
+### 👨🏻‍🎓 &nbsp; Education
+
+1. B.Sc. in Computer Science & Engineering
+   Major: Software Engineering  
+   Universiti Teknologi Malaysia 
+   Johor Bahru, Malasysia.
+
+<br />
 ### 🚀 Social Media
-[<img src='https://img.icons8.com/nolan/48/github.png' alt='github' height='40'>](https://github.com/https://github.com/ismat-tanni)  
-[<img src='https://img.icons8.com/fluency/48/000000/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/nurul-ismat-tanni//)  
-[<img src='https://img.icons8.com/color/48/000000/twitter.png' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/NurulIsmat)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg' alt='codesandbox' height='40'>](https://codesandbox.io/u/https://codesandbox.io/u/ismat-tanni)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/13546259/nurul-ismat-tanni)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://sites.google.com/view/nurul-ismat) 
+<img src='https://img.icons8.com/nolan/48/github.png' alt='github' height='40'>(https://github.com/https://github.com/ismat-tanni)  
+<img src='https://img.icons8.com/fluency/48/000000/linkedin.png' alt='linkedin' height='40'>(https://www.linkedin.com/in/https://www.linkedin.com/in/nurul-ismat-tanni//)  
+<img src='https://img.icons8.com/color/48/000000/twitter.png' alt='twitter' height='40'>(https://twitter.com/https://twitter.com/NurulIsmat)  
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg' alt='codesandbox' height='40'>(https://codesandbox.io/u/https://codesandbox.io/u/ismat-tanni)  
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>(https://stackoverflow.com/users/https://stackoverflow.com/users/13546259/nurul-ismat-tanni)  
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://sites.google.com/view/nurul-ismat) 
 
 ## 📊 My Github Stats
 
