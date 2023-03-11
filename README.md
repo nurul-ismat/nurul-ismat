@@ -57,7 +57,17 @@ I'm now enrolled in Universiti Teknologi Malaysia (UTM) as a software engineerin
 </div>
 
 <br/>
+### 💼 &nbsp; Employment History
 
+|      Position              |                  Institute                  |       Duration      |         Location          |
+| -------------------------  | ------------------------------------------- | ------------------- | ------------------------- |
+| JavaScript Trainer         | Udemy                                       | Mar 2023 - Running  | California(Work From Home)|
+| Software Engineer          | Matrix Software Solutions                   | Jun 2021 - Running  | Kuala Lumpur, Malaysia    |
+| Research Assistant Intern  | Universiti Teknologi Malaysia               | Oct 2022 - Feb 2023 | Kuala Lumpur, Malaysia    |
+| Web Developer              | Zeto Travel                                 | May 2020 – Oct 2020 | Singapore(Work From Home) |
+| Content Creator            | YouTube                                     | Jan 2016- Running   | Malaysia                  |
+
+<br />
 ### 🚀 Social Media
 [<img src='https://img.icons8.com/nolan/48/github.png' alt='github' height='40'>](https://github.com/https://github.com/ismat-tanni)  [<img src='https://img.icons8.com/fluency/48/000000/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/nurul-ismat-tanni-40b0a5148//)  [<img src='https://img.icons8.com/color/48/000000/twitter.png' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/NurulIsmat)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg' alt='codesandbox' height='40'>](https://codesandbox.io/u/https://codesandbox.io/u/ismat-tanni)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/13546259/nurul-ismat-tanni)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://sites.google.com/view/nurul-ismat) 
 
@@ -75,17 +85,4 @@ I'm now enrolled in Universiti Teknologi Malaysia (UTM) as a software engineerin
 <br/>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ismat-tanni" alt="ismat-tanni" /></a> </p>
 
-### 💼 &nbsp; Employment History
 
-| Position            | Institute                                   | Duration            | Location           |
-| ------------------- | ------------------------------------------- | ------------------- | ------------------ |
-| Full-stack trainer  | Integrify                                   | Aug 2022 - Running  | Helsinki, Finland  |
-| Software Engineer   | M-Files                                     | Nov 2021 - Feb 2022 | Tampere, Finland   |
-| Research Assistant  | Tampere University                          | Nov 2020 - Jan 2021 | Tampere, Finland   |
-| Lecturer of ICT     | Jaflong Valley Boarding School              | Jul 2018 – Nov 2018 | Sylhet, Bangladesh |
-| Guest Lecturer      | Sylhet Engineering College                  | Nov 2017 – Apr 2018 | Sylhet, Bangladesh |
-| Android developer   | United Computer & Technical Training Center | Nov 2016 – Nov 2017 | Sylhet, Bangladesh |
-| Lecturer of ICT     | Zhingabari High School & College            | May 2016 – Aug 2017 | Sylhet, Bangladesh |
-| Content Creator     | YouTube                                     | Jan 2012- Running   | USA                |
-
-<br />
