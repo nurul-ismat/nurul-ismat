@@ -2,6 +2,10 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">I'm Nurul Ismat Tanni</h1>
 <h3 align="center">Software Engineer</h3>
 
+## Lover of **JavaScript**
+✨ Experienced with MERN (MongoDB, Express JS, React JS, Node JS) stack and Completed Complex Projects with **JavaScript**
+<br>
+
 ## 🙋‍♀️ About Me
 
 I'm graduated from Universiti Teknologi Malaysia (UTM). Major is: Software Engineering and I'm a <b> Full Stack Web Developer </b>. I'm expert in <b> MERN (MongoDB, Express JS, React JS, Node JS) stack </b>. My love for software is in coming up with new ideas and turning them into reality via the use of beautiful interfaces. I put a lot of thought into the user experience, architecture, and code quality of the things I make. In addition, I am an open-source fan and user. I learned a lot from the open-source community, and I admire how open-source facilitates cooperation and information exchange.
@@ -17,32 +21,30 @@ I'm graduated from Universiti Teknologi Malaysia (UTM). Major is: Software Engin
 - 💬 Ask me about Software analysis, architecture, implementation, testing and also C++, Java, Python and web development.
 - 📫 How to reach me: ismattanni@gmail.com </br>
 
-<!-- Contact me section starts here  -->
-
-[<img align="left" alt="website" title="website" width="45" hspace="5" src="./images/website.svg" />]
-[<img align="left" alt="youtube" title="youtube link" width="45" hspace="5" src="./images/youtube.svg" />]
-[<img align="left" alt="facebook" title="facebook" width="45" hspace="5" src="./images/facebook.svg" />]
-[<img align="left" alt="linkedin" title="linkedin" width="45" hspace="5" src="./images/linkedin.svg" />]
-<br />
-
 ### 🛠 Languages & Platforms 
-<div align="left">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html" />
-<img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" />
-<img src="https://img.shields.io/badge/ReactNative-61DAFB?style=for-the-badge&logo=React&logoColor=black"/>
-<img src="https://img.icons8.com/color/50/000000/python" alt="python" height=28 width=48 />
-<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jquery" />
-<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white" alt="java" />
-<img src="https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="php" />
-<img src="https://img.shields.io/badge/SQL-407AFC?style=for-the-badge&logo=icloud&logoColor=white" alt="sql" />
-<img src="https://img.shields.io/badge/C++-007396?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-<img src="https://img.shields.io/badge/Python3-306998?style=for-the-badge&logo=python&logoColor=white" alt="Python3" />
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white"/>
-<img src="https://editor.analyticsvidhya.com/uploads/232202.png" height=28 width=48/>
-</div>
-
+<p align="left"> 
+    <!-- <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/2x/000000/html-5.png"/> </a> 
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/2x/000000/css3.png"/> </a>  -->
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/1x/000000/javascript.png"/>  </a> 
+    <a href="https://www.typescriptlang.org" target="_blank"> <img src="https://img.icons8.com/color/1x/typescript.png"/> </a> 
+    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/1x/000000/react-native.png"/> </a>
+    <a href="https://angular.io/" target="_blank"> <img src="https://img.icons8.com/color/1x/angularjs.png"/> </a>
+    <a href="https://redux.js.org/" target="_blank"> <img src="https://img.icons8.com/color/1x/redux.png"/> </a>
+    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/fluency/1x/node-js.png"/> </a> 
+    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/1x/000000/mysql-logo.png"/> </a>
+    <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/1x/000000/firebase.png"/> </a> 
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/1x/000000/git.png"/> </a> 
+    <!-- <a href="https://sass-lang.com/" target="_blank"> <img src="https://img.icons8.com/color/1x/sass.png"/> </a>  -->
+    <a href="https://sass-lang.com/" target="_blank"> <img src="https://img.icons8.com/color/1x/sass-avatar.png"/> </a> 
+    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.icons8.com/color/1x/mongodb.png"/> </a> 
+    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
+      <!-- 
+    <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="48" height="48"/> </a> 
+    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
+    <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/> </a> 
+    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
+    <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
+ -->
 <br/>
 
 ### 🖥 Tools
@@ -87,12 +89,13 @@ I'm graduated from Universiti Teknologi Malaysia (UTM). Major is: Software Engin
 
 <br />
 ### 🚀 Social Media
-<img src='https://img.icons8.com/nolan/48/github.png' alt='github' height='40'>(https://github.com/https://github.com/ismat-tanni)  
-<img src='https://img.icons8.com/fluency/48/000000/linkedin.png' alt='linkedin' height='40'>(https://www.linkedin.com/in/https://www.linkedin.com/in/nurul-ismat-tanni//)  
-<img src='https://img.icons8.com/color/48/000000/twitter.png' alt='twitter' height='40'>(https://twitter.com/https://twitter.com/NurulIsmat)  
-<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg' alt='codesandbox' height='40'>(https://codesandbox.io/u/https://codesandbox.io/u/ismat-tanni)  
-<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>(https://stackoverflow.com/users/https://stackoverflow.com/users/13546259/nurul-ismat-tanni)  
-<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://sites.google.com/view/nurul-ismat) 
+<p align="left">
+<a href = "https://www.linkedin.com/in/nurul-ismat-tanni/"><img src="https://img.icons8.com/color/48/linkedin-circled--v1.png"/></a>
+<a href = "https://www.facebook.com/nurul.ismat.71"><img src="https://img.icons8.com/color/48/000000/facebook.png"/></a>
+<a href = "https://twitter.com/NurulIsmatTanni"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+
+<a href = "https://www.youtube.com/channel/UCPqD_DarO1TeKXxy_8FOwig"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+</p>
 
 ## 📊 My Github Stats
 
