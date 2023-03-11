@@ -3,7 +3,7 @@
 <h3 align="center">Software Engineer</h3>
 
 ## Lover of **JavaScript**
-✨ Experienced with MERN (MongoDB, Express JS, React JS, Node JS) stack and Completed Complex Projects with **JavaScript**
+✨ Experienced with JavaScript and Completed Complex Projects with JavaScript and its framworks/library
 <br>
 
 ## 🙋‍♀️ About Me
