@@ -47,6 +47,7 @@ I'm graduated from Universiti Teknologi Malaysia (UTM). Major is: Software Engin
  -->
 <br/>
   
+  <br>
 ## 👨‍💻 <b>Other Skills & Videos:</b>
 <img align="left" alt="c" title="c playlist" width="45" hspace="5" src="./images/c.svg" />
 <img align="left" alt="c plus plus" title="c++ playlist" width="45" hspace="5" src="./images/cplus.svg" />
