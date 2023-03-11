@@ -21,7 +21,7 @@ I'm graduated from Universiti Teknologi Malaysia (UTM). Major is: Software Engin
 - 💬 Ask me about Software analysis, architecture, implementation, testing and also C++, Java, Python and web development.
 - 📫 How to reach me: ismattanni@gmail.com </br>
 
-### 🛠 Languages & Platforms 
+## 🛠 Languages & Platforms 
 <p align="left"> 
     <!-- <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/2x/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/2x/000000/css3.png"/> </a>  -->
@@ -46,8 +46,17 @@ I'm graduated from Universiti Teknologi Malaysia (UTM). Major is: Software Engin
     <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
  -->
 <br/>
-
-### 🖥 Tools
+  
+## 👨‍💻 <b>Other Skills & Videos:</b>
+<img align="left" alt="c" title="c playlist" width="45" hspace="5" src="./images/c.svg" />
+<img align="left" alt="c plus plus" title="c++ playlist" width="45" hspace="5" src="./images/cplus.svg" />
+<img align="left" alt="java" title="java playlist" width="45" hspace="5" src="./images/java.svg" />
+<img align="left" alt="android" title="android playlist" width="45" hspace="5" src="./images/android.svg" />
+<img align="left" alt="python" title="python playlist" width="45" hspace="5" src="./images/python.svg" />
+<br/>
+    
+<br>
+##🖥Tools:
 <div align="left">
 <img src="https://img.shields.io/badge/brackets-336791?style=for-the-badge&logo=RTLZWEI&logoColor=white" alt="brackets" />
 <img src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white" alt="Atom" />
@@ -66,9 +75,10 @@ I'm graduated from Universiti Teknologi Malaysia (UTM). Major is: Software Engin
 <img src="https://img.shields.io/badge/ReactiveX-B7178C?style=for-the-badge&logo=ReactJS&logoColor=white"/>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=black"/>
 </div>
-
 <br/>
-### 💼 &nbsp; Employment History
+
+<br>
+## 💼 <b>Employment History</b>
 
 |      Position              |                  Institute                  |       Duration      |         Location          |
 | -------------------------  | ------------------------------------------- | ------------------- | ------------------------- |
@@ -80,15 +90,17 @@ I'm graduated from Universiti Teknologi Malaysia (UTM). Major is: Software Engin
 
 <br />
 
-### 👨🏻‍🎓 &nbsp; Education
+<br>
+## 👨🏻‍🎓 <b>Education</b>
 
 1. B.Sc. in Computer Science & Engineering <br>
    <b>Major:</b> Software Engineering  
    Universiti Teknologi Malaysia<br> 
    Johor Bahru, Malasysia.
+<br/>
 
-<br />
-### 🚀 Social Media
+<br>
+## 🚀 Social Media
 <p align="left">
 <a href = "https://www.linkedin.com/in/nurul-ismat-tanni/"><img src="https://img.icons8.com/color/48/linkedin-circled--v1.png"/></a>
 <a href = "https://www.facebook.com/nurul.ismat.71"><img src="https://img.icons8.com/color/48/000000/facebook.png"/></a>
@@ -96,7 +108,9 @@ I'm graduated from Universiti Teknologi Malaysia (UTM). Major is: Software Engin
 
 <a href = "https://www.youtube.com/channel/UCPqD_DarO1TeKXxy_8FOwig"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 </p>
-
+<br/>
+    
+<br>
 ## 📊 My Github Stats
 
   <br/>
