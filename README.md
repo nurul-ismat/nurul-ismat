@@ -54,9 +54,10 @@ I'm graduated from Universiti Teknologi Malaysia (UTM). Major is: Software Engin
 <img align="left" alt="android" title="android playlist" width="45" hspace="5" src="./images/android.svg" />
 <img align="left" alt="python" title="python playlist" width="45" hspace="5" src="./images/python.svg" />
 <br/>
-    
+
 <br>
-##🖥Tools:
+    ## 👨‍💻 <b>Tools:</b>
+
 <div align="left">
 <img src="https://img.shields.io/badge/brackets-336791?style=for-the-badge&logo=RTLZWEI&logoColor=white" alt="brackets" />
 <img src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white" alt="Atom" />
@@ -78,7 +79,8 @@ I'm graduated from Universiti Teknologi Malaysia (UTM). Major is: Software Engin
 <br/>
 
 <br>
-## 💼 <b>Employment History</b>
+## 👨‍💻 <b>Other Skills & Videos:</b>
+## 💼 <b> Employment History:</b>
 
 |      Position              |                  Institute                  |       Duration      |         Location          |
 | -------------------------  | ------------------------------------------- | ------------------- | ------------------------- |
@@ -100,6 +102,7 @@ I'm graduated from Universiti Teknologi Malaysia (UTM). Major is: Software Engin
 <br/>
 
 <br>
+## 👨‍💻 <b>Other Skills & Videos:</b>
 ## 🚀 Social Media
 <p align="left">
 <a href = "https://www.linkedin.com/in/nurul-ismat-tanni/"><img src="https://img.icons8.com/color/48/linkedin-circled--v1.png"/></a>
@@ -111,6 +114,7 @@ I'm graduated from Universiti Teknologi Malaysia (UTM). Major is: Software Engin
 <br/>
     
 <br>
+## 👨‍💻 <b>Other Skills & Videos:</b>
 ## 📊 My Github Stats
 
   <br/>
