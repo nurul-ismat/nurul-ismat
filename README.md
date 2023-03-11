@@ -17,6 +17,14 @@ I'm graduated from Universiti Teknologi Malaysia (UTM). Major is: Software Engin
 - 💬 Ask me about Software analysis, architecture, implementation, testing and also C++, Java, Python and web development.
 - 📫 How to reach me: ismattanni@gmail.com </br>
 
+<!-- Contact me section starts here  -->
+
+[<img align="left" alt="website" title="website" width="45" hspace="5" src="./images/website.svg" />][website]
+[<img align="left" alt="youtube" title="youtube link" width="45" hspace="5" src="./images/youtube.svg" />][youtube]
+[<img align="left" alt="facebook" title="facebook" width="45" hspace="5" src="./images/facebook.svg" />][facebook]
+[<img align="left" alt="linkedin" title="linkedin" width="45" hspace="5" src="./images/linkedin.svg" />][linkedin]
+<br />
+
 ### 🛠 Languages & Platforms 
 <div align="left">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html" />
