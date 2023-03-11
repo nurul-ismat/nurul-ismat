@@ -75,3 +75,17 @@ I'm now enrolled in Universiti Teknologi Malaysia (UTM) as a software engineerin
 <br/>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ismat-tanni" alt="ismat-tanni" /></a> </p>
 
+### 💼 &nbsp; Employment History
+
+| Position            | Institute                                   | Duration            | Location           |
+| ------------------- | ------------------------------------------- | ------------------- | ------------------ |
+| Full-stack trainer  | Integrify                                   | Aug 2022 - Running  | Helsinki, Finland  |
+| Software Engineer   | M-Files                                     | Nov 2021 - Feb 2022 | Tampere, Finland   |
+| Research Assistant  | Tampere University                          | Nov 2020 - Jan 2021 | Tampere, Finland   |
+| Lecturer of ICT     | Jaflong Valley Boarding School              | Jul 2018 – Nov 2018 | Sylhet, Bangladesh |
+| Guest Lecturer      | Sylhet Engineering College                  | Nov 2017 – Apr 2018 | Sylhet, Bangladesh |
+| Android developer   | United Computer & Technical Training Center | Nov 2016 – Nov 2017 | Sylhet, Bangladesh |
+| Lecturer of ICT     | Zhingabari High School & College            | May 2016 – Aug 2017 | Sylhet, Bangladesh |
+| Content Creator     | YouTube                                     | Jan 2012- Running   | USA                |
+
+<br />
