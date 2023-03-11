@@ -45,19 +45,19 @@ I'm graduated from Universiti Teknologi Malaysia (UTM). Major is: Software Engin
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
     <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
  -->
-<br/>
+</br>
   
   <br>
-## 👨‍💻 <b>Other Skills & Videos:</b>
+## 🙋‍♀️ Other Skills & Videos:
 <img align="left" alt="c" title="c playlist" width="45" hspace="5" src="./images/c.svg" />
 <img align="left" alt="c plus plus" title="c++ playlist" width="45" hspace="5" src="./images/cplus.svg" />
 <img align="left" alt="java" title="java playlist" width="45" hspace="5" src="./images/java.svg" />
 <img align="left" alt="android" title="android playlist" width="45" hspace="5" src="./images/android.svg" />
 <img align="left" alt="python" title="python playlist" width="45" hspace="5" src="./images/python.svg" />
-<br/>
+</br>
 
 <br>
-    ## 👨‍💻 <b>Tools:</b>
+## 🙋‍♀️ Tools
 
 <div align="left">
 <img src="https://img.shields.io/badge/brackets-336791?style=for-the-badge&logo=RTLZWEI&logoColor=white" alt="brackets" />
@@ -77,11 +77,10 @@ I'm graduated from Universiti Teknologi Malaysia (UTM). Major is: Software Engin
 <img src="https://img.shields.io/badge/ReactiveX-B7178C?style=for-the-badge&logo=ReactJS&logoColor=white"/>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=black"/>
 </div>
-<br/>
+</br>
 
 <br>
-## 👨‍💻 <b>Other Skills & Videos:</b>
-## 💼 <b> Employment History:</b>
+## 💼 Employment History:
 
 |      Position              |                  Institute                  |       Duration      |         Location          |
 | -------------------------  | ------------------------------------------- | ------------------- | ------------------------- |
@@ -91,20 +90,19 @@ I'm graduated from Universiti Teknologi Malaysia (UTM). Major is: Software Engin
 | Web Developer              | Zeto Travel                                 | May 2020 – Oct 2020 | Singapore(Work From Home) |
 | Content Creator            | YouTube                                     | Jan 2016- Running   | Malaysia                  |
 
-<br />
+</br>
 
 <br>
-## 👨🏻‍🎓 <b>Education</b>
+## 👨🏻‍🎓Education:
 
 1. B.Sc. in Computer Science & Engineering <br>
    <b>Major:</b> Software Engineering  
    Universiti Teknologi Malaysia<br> 
    Johor Bahru, Malasysia.
-<br/>
+</br>
 
 <br>
-## 👨‍💻 <b>Other Skills & Videos:</b>
-## 🚀 Social Media
+## 🚀 Social Media:
 <p align="left">
 <a href = "https://www.linkedin.com/in/nurul-ismat-tanni/"><img src="https://img.icons8.com/color/48/linkedin-circled--v1.png"/></a>
 <a href = "https://www.facebook.com/nurul.ismat.71"><img src="https://img.icons8.com/color/48/000000/facebook.png"/></a>
@@ -112,21 +110,20 @@ I'm graduated from Universiti Teknologi Malaysia (UTM). Major is: Software Engin
 
 <a href = "https://www.youtube.com/channel/UCPqD_DarO1TeKXxy_8FOwig"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 </p>
-<br/>
+</br>
     
 <br>
-## 👨‍💻 <b>Other Skills & Videos:</b>
-## 📊 My Github Stats
+## 📊 My Github Stats:
 
-  <br/>
+  </br>
   <a href="https://github.com/ismat-tanni/github-readme-stats"><img alt="ismat-tanni's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ismat-tanni&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/ismat-tanni/github-readme-stats"><img alt="ismat-tanni's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismat-tanni&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-<br/>
+</br>
 
 ### ❤ Views
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
 <img src="https://komarev.com/ghpvc/?username=ismat-tanni"></a>
-<br/>
+</br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ismat-tanni" alt="ismat-tanni" /></a> </p>
 
 
