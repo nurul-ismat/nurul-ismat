@@ -11,10 +11,10 @@
 I'm graduated from Universiti Teknologi Malaysia (UTM). Major is: Software Engineering and I'm a <b> Full Stack Web Developer </b>. I'm expert in <b> MERN (MongoDB, Express JS, React JS, Node JS) stack </b>. My love for software is in coming up with new ideas and turning them into reality via the use of beautiful interfaces. I put a lot of thought into the user experience, architecture, and code quality of the things I make. In addition, I am an open-source fan and user. I learned a lot from the open-source community, and I admire how open-source facilitates cooperation and information exchange.
 <br>🏠Living: Kuala Lumpur, Malaysia
 
+- 🌱 I’m currently doing project using MERN.
 - 👨‍ Internship: Universiti Teknologi Malaysia, Kualalumpur, Under UTM CPSRG (Cyber Physical System Research Group).
 - 🔭 Internship Scope: Software Engineering (Software Development, Software Maintenance, Artificial Intelligent System ,Embedded Real Time Software, Algorithm)
-- 🌱 I’m currently learning reactJS.
-- 🔭 Final Year Project was  UTM, Faculty of Computing, Undergraduate Course Management System. System Development using PHP Laravel Framework.
+- 🔭 Final Year Project was  UTM, Faculty of Computing, Undergraduate Course Management System. System Development using <b>PHP Laravel Framework</b>.
 - 👨‍💻 All of my researches & projects are available at https://github.com/ismat-tanni?tab=projects
 - 👯 I’m looking to collaborate on Software Development and Web Development 
 - 🤔 I’m looking for help with Software Development and Web Development 
@@ -82,9 +82,9 @@ I'm graduated from Universiti Teknologi Malaysia (UTM). Major is: Software Engin
 
 ### 👨🏻‍🎓 &nbsp; Education
 
-1. B.Sc. in Computer Science & Engineering
-   Major: Software Engineering  
-   Universiti Teknologi Malaysia 
+1. B.Sc. in Computer Science & Engineering <br>
+   <b>Major:</b> Software Engineering  
+   Universiti Teknologi Malaysia<br> 
    Johor Bahru, Malasysia.
 
 <br />
@@ -100,9 +100,8 @@ I'm graduated from Universiti Teknologi Malaysia (UTM). Major is: Software Engin
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/ismat-tanni/github-readme-stats"><img alt="ismat-tanni's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ismat-tanni&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/ismat-tanni/github-readme-stats"><img alt="ismat-tanni's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ismat-tanni&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/ismat-tanni/github-readme-stats"><img alt="ismat-tanni's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismat-tanni&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-<br/>
 <br/>
 
 ### ❤ Views
