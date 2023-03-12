@@ -23,8 +23,6 @@ I'm graduated from Universiti Teknologi Malaysia (UTM). Major is: Software Engin
 
 ## 🛠 Languages & Platforms 
 <p align="left"> 
-    <!-- <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/2x/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/2x/000000/css3.png"/> </a>  -->
     <img align="left" alt="html5" title="html playlist" width="45" hspace="5" src="./images/html5.svg" />
     <img align="left" alt="css3" title="css playlist" width="45" hspace="5" src="./images/css3.svg" />
     <img align="left" alt="bootstrap" title="bootstrap playlist" width="45" hspace="5" src="./images/bootstrap.svg" />
@@ -38,18 +36,12 @@ I'm graduated from Universiti Teknologi Malaysia (UTM). Major is: Software Engin
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/1x/000000/mysql-logo.png"/> </a>
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/1x/000000/firebase.png"/> </a> 
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/1x/000000/git.png"/> </a> 
-    <!-- <a href="https://sass-lang.com/" target="_blank"> <img src="https://img.icons8.com/color/1x/sass.png"/> </a>  -->
     <a href="https://sass-lang.com/" target="_blank"> <img src="https://img.icons8.com/color/1x/sass-avatar.png"/> </a> 
-    <img align="left" alt="mysql" title="mysql playlist" width="45" hspace="5" src="./images/mysql.svg" />
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.icons8.com/color/1x/mongodb.png"/> </a> 
-    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
-      <!-- 
-    <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="48" height="48"/> </a> 
+    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>    
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
     <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/> </a> 
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
- -->
 </br>
  
  
@@ -72,13 +64,10 @@ I'm graduated from Universiti Teknologi Malaysia (UTM). Major is: Software Engin
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse IDE&logoColor=white" alt="Eclipse" />
 <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=for-the-badge&logo=Visual Studio&logoColor=white" alt="Visual Studio" />
 <img src="https://img.shields.io/badge/vs%20code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vs code" />
-<img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" />
+<a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="48" height="48"/> </a>
 <img src="https://img.shields.io/badge/FileZilla-BF0000?style=for-the-badge&logo=FileZilla&logoColor=white" alt="FileZilla" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" alt="MySQL" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-%2324292e?style=for-the-badge&logo=github&logoColor=white" alt="github" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white" alt="MongoBD" />
-<img src="https://img.shields.io/badge/ReactiveX-B7178C?style=for-the-badge&logo=ReactJS&logoColor=white"/>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=black"/>
 </div>
 </br>
