@@ -16,9 +16,9 @@ I'm graduated from Universiti Teknologi Malaysia (UTM). Major is: Software Engin
 - 🔭 Internship Scope: Software Engineering (Software Development, Software Maintenance, Artificial Intelligent System ,Embedded Real Time Software, Algorithm)
 - 🔭 Final Year Project was  UTM, Faculty of Computing, Undergraduate Course Management System. System Development using <b>PHP Laravel Framework</b>.
 - 👨‍💻 All of my researches & projects are available at https://github.com/ismat-tanni?tab=projects
-- 👯 I’m looking to collaborate on Software Development and Web Development 
-- 🤔 I’m looking for help with Software Development and Web Development 
-- 💬 Ask me about Software analysis, architecture, implementation, testing and also C++, Java, Python and web development.
+- 👯 I’m looking to collaborate on Software Development. 
+- 🤔 I’m looking for help with Software Development.
+- 💬 Ask me about Software analysis, architecture, implementation, testing and also C++, Java, JavaScript and Python.
 - 📫 How to reach me: ismattanni@gmail.com </br>
 
 ## 🛠 Languages & Platforms 
@@ -46,9 +46,8 @@ I'm graduated from Universiti Teknologi Malaysia (UTM). Major is: Software Engin
     <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
  -->
 </br>
-  
-  <br>
-## 🙋‍♀️ Other Skills & Videos:
+ 
+## 🛠 Other Skills & Videos 
 <img align="left" alt="c" title="c playlist" width="45" hspace="5" src="./images/c.svg" />
 <img align="left" alt="c plus plus" title="c++ playlist" width="45" hspace="5" src="./images/cplus.svg" />
 <img align="left" alt="java" title="java playlist" width="45" hspace="5" src="./images/java.svg" />
@@ -56,7 +55,6 @@ I'm graduated from Universiti Teknologi Malaysia (UTM). Major is: Software Engin
 <img align="left" alt="python" title="python playlist" width="45" hspace="5" src="./images/python.svg" />
 </br>
 
-<br>
 ## 🙋‍♀️ Tools
 
 <div align="left">
