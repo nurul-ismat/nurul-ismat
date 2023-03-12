@@ -9,7 +9,7 @@
 ## 🙋‍♀️ About Me
 
 I'm graduated from Universiti Teknologi Malaysia (UTM). Major is: Software Engineering and I'm a <b> Full Stack Web Developer </b>. I'm expert in <b> MERN (MongoDB, Express JS, React JS, Node JS) stack </b>. My love for software is in coming up with new ideas and turning them into reality via the use of beautiful interfaces. I put a lot of thought into the user experience, architecture, and code quality of the things I make. In addition, I am an open-source fan and user. I learned a lot from the open-source community, and I admire how open-source facilitates cooperation and information exchange.
-<br>🏠Living: Kuala Lumpur, Malaysia
+<br>   🏠Living: Kuala Lumpur, Malaysia
 
 - 🌱 I’m currently doing project using MERN.
 - 👨‍ Internship: Universiti Teknologi Malaysia, Kualalumpur, Under UTM CPSRG (Cyber Physical System Research Group).
@@ -47,7 +47,8 @@ I'm graduated from Universiti Teknologi Malaysia (UTM). Major is: Software Engin
  -->
 </br>
  
-## 🛠 Other Skills & Videos 
+ 
+## 👨‍💻 Other Skills & Videos 
 <img align="left" alt="c" title="c playlist" width="45" hspace="5" src="./images/c.svg" />
 <img align="left" alt="c plus plus" title="c++ playlist" width="45" hspace="5" src="./images/cplus.svg" />
 <img align="left" alt="java" title="java playlist" width="45" hspace="5" src="./images/java.svg" />
@@ -55,8 +56,8 @@ I'm graduated from Universiti Teknologi Malaysia (UTM). Major is: Software Engin
 <img align="left" alt="python" title="python playlist" width="45" hspace="5" src="./images/python.svg" />
 </br>
 
-## 🙋‍♀️ Tools
 
+## 🙋‍♀️ Tools
 <div align="left">
 <img src="https://img.shields.io/badge/brackets-336791?style=for-the-badge&logo=RTLZWEI&logoColor=white" alt="brackets" />
 <img src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white" alt="Atom" />
@@ -77,7 +78,6 @@ I'm graduated from Universiti Teknologi Malaysia (UTM). Major is: Software Engin
 </div>
 </br>
 
-<br>
 ## 💼 Employment History:
 
 |      Position              |                  Institute                  |       Duration      |         Location          |
@@ -90,7 +90,6 @@ I'm graduated from Universiti Teknologi Malaysia (UTM). Major is: Software Engin
 
 </br>
 
-<br>
 ## 👨🏻‍🎓Education:
 
 1. B.Sc. in Computer Science & Engineering <br>
@@ -99,7 +98,6 @@ I'm graduated from Universiti Teknologi Malaysia (UTM). Major is: Software Engin
    Johor Bahru, Malasysia.
 </br>
 
-<br>
 ## 🚀 Social Media:
 <p align="left">
 <a href = "https://www.linkedin.com/in/nurul-ismat-tanni/"><img src="https://img.icons8.com/color/48/linkedin-circled--v1.png"/></a>
@@ -110,7 +108,6 @@ I'm graduated from Universiti Teknologi Malaysia (UTM). Major is: Software Engin
 </p>
 </br>
     
-<br>
 ## 📊 My Github Stats:
 
   </br>
