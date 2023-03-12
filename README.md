@@ -52,6 +52,7 @@ I'm graduated from Universiti Teknologi Malaysia (UTM). Major is: Software Engin
 <img align="left" alt="android" title="android playlist" width="45" hspace="5" src="./images/android.svg" />
 <img align="left" alt="python" title="python playlist" width="45" hspace="5" src="./images/python.svg" />
 </br>
+<br>
 
 
 ## 🙋‍♀️ Tools
