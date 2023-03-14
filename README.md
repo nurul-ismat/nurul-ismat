@@ -112,8 +112,8 @@ I'm graduated from Universiti Teknologi Malaysia (UTM). Major is: Software Engin
 
 ### ❤ Views
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-<img src="https://komarev.com/ghpvc/?username=ismat-tanni"></a>
+<img src="https://komarev.com/ghpvc/?username=nurul-ismat"></a>
 </br>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ismat-tanni" alt="ismat-tanni" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nurul-ismat" alt="nurul-ismat" /></a> </p>
 
 
