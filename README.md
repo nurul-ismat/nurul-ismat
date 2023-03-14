@@ -106,8 +106,8 @@ I'm graduated from Universiti Teknologi Malaysia (UTM). Major is: Software Engin
 ## 📊 My Github Stats:
 
   </br>
-  <a href="https://github.com/ismat-tanni/github-readme-stats"><img alt="ismat-tanni's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ismat-tanni&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/ismat-tanni/github-readme-stats"><img alt="ismat-tanni's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismat-tanni&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/nurul-ismat/github-readme-stats"><img alt="nurul-ismat's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nurul-ismat&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/nurul-ismat/github-readme-stats"><img alt="nurul-ismat's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurul-ismat&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 </br>
 
 ### ❤ Views
