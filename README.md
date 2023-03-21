@@ -15,7 +15,7 @@ I graduated from Universiti Teknologi Malaysia (UTM) in Software Engineering dep
 - 👨‍ Internship: Universiti Teknologi Malaysia, Kualalumpur, Under UTM CPSRG (Cyber Physical System Research Group).
 - 🔭 Internship Scope: Software Engineering (Software Development, Software Maintenance, Artificial Intelligent System ,Embedded Real Time Software, Algorithm)
 - 🔭 Final Year Project was  UTM, Faculty of Computing, Undergraduate Course Management System. System Development using <b>PHP Laravel Framework</b>.
-- 👨‍💻 All of my researches & projects are available at https://github.com/ismat-tanni?tab=projects
+- 👨‍💻 All of my researches & projects are available at https://github.com/nurul-ismat?tab=projects
 - 👯 I’m looking to collaborate on Software Development. 
 - 🤔 I’m looking for help with Software Development.
 - 💬 Ask me about Software analysis, architecture, implementation, testing and also C++, Java, JavaScript and Python.
