@@ -19,7 +19,7 @@ I graduated from Universiti Teknologi Malaysia (UTM) in Software Engineering dep
 - 👯 I’m looking to collaborate on Software Development. 
 - 🤔 I’m looking for help with Software Development.
 - 💬 Ask me about Software analysis, architecture, implementation, testing and also C++, Java, JavaScript and Python.
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/nurul-ismat-tanni/">LinkedIn<a/> | <a href="https://nurul-ismat.netlify.app/">Portfolio<a/> | <a href="https://www.facebook.com/nurul.ismat.71">Facebook<a/> | <a href="https://wa.me/+60149285738">Whatsapp</a> 
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/nurul-ismat-tanni/">LinkedIn<a/> | <a href="https://nurul-ismat-tanni.netlify.app/">Portfolio<a/> | <a href="https://www.facebook.com/nurul.ismat.71">Facebook<a/> | <a href="https://wa.me/+60149285738">Whatsapp</a> 
 
 ## 🛠 Languages & Platforms 
 <p align="left"> 
