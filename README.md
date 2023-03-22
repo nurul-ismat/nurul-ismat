@@ -78,9 +78,9 @@ I graduated from Universiti Teknologi Malaysia (UTM) in Software Engineering dep
 |      Position              |                  Institute                  |       Duration      |         Location          |
 | -------------------------  | ------------------------------------------- | ------------------- | ------------------------- |
 | JavaScript Trainer         | Udemy                                       | Mar 2023 - Running  | California(Work From Home)|
-| Software Engineer          | Matrix Software Solutions                   | Jun 2021 - Running  | Kuala Lumpur, Malaysia    |
+| Software Engineer          | Matrix Software Solutions                   | Aug 2021 - Oct 2022  | Kuala Lumpur, Malaysia    |
 | Research Assistant Intern  | Universiti Teknologi Malaysia               | Oct 2022 - Feb 2023 | Kuala Lumpur, Malaysia    |
-| Web Developer              | Zeto Travel                                 | May 2020 – Oct 2020 | Singapore(Work From Home) |
+| Web Developer              | Zeto Travel                                 | May 2020 – Jun 2021 | Singapore(Work From Home) |
 | Content Creator            | YouTube                                     | Jan 2016- Running   | Malaysia                  |
 
 </br>
