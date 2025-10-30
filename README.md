@@ -59,11 +59,7 @@ I graduated from Universiti Teknologi Malaysia (UTM) with a degree in Software E
 <div align="left">
 <img src="https://img.shields.io/badge/brackets-336791?style=for-the-badge&logo=RTLZWEI&logoColor=white" alt="brackets" />
 <img src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white" alt="Atom" />
-<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=Adobe Photoshop&logoColor=white" alt="Photoshop" />
-<img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=Adobe Illustrator&logoColor=white" alt="Illustrator" />
 <img src="https://img.shields.io/badge/Gnuboard-00A672?style=for-the-badge&logo=Gitee&logoColor=white" alt="Gnuboard" />
-<img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse IDE&logoColor=white" alt="Eclipse" />
-<img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=for-the-badge&logo=Visual Studio&logoColor=white" alt="Visual Studio" />
 <img src="https://img.shields.io/badge/vs%20code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vs code" />
 <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="48" height="48"/> </a>
 <img src="https://img.shields.io/badge/FileZilla-BF0000?style=for-the-badge&logo=FileZilla&logoColor=white" alt="FileZilla" />
