@@ -86,6 +86,8 @@ I graduated from Universiti Teknologi Malaysia (UTM) with a degree in Software E
   <a href="https://github.com/nurul-ismat/github-readme-stats"><img alt="nurul-ismat's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nurul-ismat&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/nurul-ismat/github-readme-stats"><img alt="nurul-ismat's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurul-ismat&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
+  <a href="https://github.com/nurul-ismat"><img src="https://github-readme-stats.vercel.app/api/top-langs/ username=nurul-ismat&langs_count=10&title_color=10b981&text_color=ffffff&icon_color=3382ed&bg_color=0D1117&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
 </br>
 
 ### ❤ Views
