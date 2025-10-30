@@ -1,24 +1,24 @@
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">I'm Nurul Ismat Tanni</h1>
-<h3 align="center">Software Engineer</h3>
+<h3 align="center">Software Engineer | Full Stack Developer</h3>
 
 ## Lover of **JavaScript**
-✨ Experienced with JavaScript and Completed Complex Projects with JavaScript and its framworks/library
+✨ Experienced with JavaScript and Completed Complex Projects with JavaScript and its frameworks/libraries
 <br>
 
 ## 🙋‍♀️ About Me
 
-I graduated from Universiti Teknologi Malaysia (UTM) in Software Engineering department and I'm a <b> Full Stack Web Developer </b>. I'm expert in <b> MERN (MongoDB, Express JS, React JS, Node JS) stack </b>. My love for software is in coming up with new ideas and turning them into reality via the use of beautiful interfaces. I put a lot of thought into the user experience, architecture, and code quality of the things I make. In addition, I am an open-source fan and user. I learned a lot from the open-source community, and I admire how open-source facilitates cooperation and information exchange.
+I graduated from Universiti Teknologi Malaysia (UTM) with a degree in Software Engineering, and I'm a <b>Full Stack Web Developer</b>. I'm an expert in <b> MERN (MongoDB, Express JS, React JS, Node JS) stack </b>. My love for software is in coming up with new ideas and turning them into reality via the use of beautiful interfaces. I put a lot of thought into the user experience, architecture, and code quality of the things I make. In addition, I am an open-source fan and user. I learned a lot from the open-source community, and I admire how open-source facilitates cooperation and information exchange.
 <br>   🏠Living: Kuala Lumpur, Malaysia
 
-- 🌱 I’m currently learning Advanced NodeJS, Express JS, MongoDB.
+- 🌱 I’m currently learning Advanced NodeJS, Express JS, and MongoDB.
 - 👨‍ Internship: Universiti Teknologi Malaysia, Kualalumpur, Under UTM CPSRG (Cyber Physical System Research Group).
-- 🔭 Internship Scope: Software Engineering (Software Development, Software Maintenance, Artificial Intelligent System ,Embedded Real Time Software, Algorithm)
+- 🔭 Internship Scope: Software Engineering (Software Development, Software Maintenance, Artificial Intelligence System, Embedded Real-Time Software, Algorithm)
 - 🔭 Final Year Project was  UTM, Faculty of Computing, Undergraduate Course Management System. System Development using <b>PHP Laravel Framework</b>.
 - 👨‍💻 All of my researches & projects are available at https://github.com/nurul-ismat?tab=projects
 - 👯 I’m looking to collaborate on Software Development. 
 - 🤔 I’m looking for help with Software Development.
-- 💬 Ask me about Software analysis, architecture, implementation, testing and also C++, Java, JavaScript and Python.
+- 💬 Ask me about Software analysis, architecture, implementation, testing, and also C++, Java, JavaScript, and Python.
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/nurul-ismat-tanni/">LinkedIn<a/> | <a href="https://nurul-ismat-tanni.netlify.app/">Portfolio<a/> | <a href="https://www.facebook.com/nurul.ismat.71">Facebook<a/> | <a href="https://wa.me/+60149285738">Whatsapp</a> 
 
 ## 🛠 Languages & Platforms 
@@ -77,8 +77,9 @@ I graduated from Universiti Teknologi Malaysia (UTM) in Software Engineering dep
 
 |      Position              |                  Institute                  |       Duration      |         Location          |
 | -------------------------  | ------------------------------------------- | ------------------- | ------------------------- |
-| JavaScript Trainer         | Udemy                                       | Mar 2023 - Running  | California(Work From Home)|
-| Software Engineer          | Matrix Software Solutions                   | Aug 2021 - Oct 2022  | Kuala Lumpur, Malaysia    |
+| ICT Teacher (Part Time)    | Habibpur Secondary School                   | Nov 2024 - Running  | Barishal, Bangladesh      |
+| Software Engineer          | UniDevgo Software Solution                  | Jul 2023 - Sep 2024 | Dhaka, Bangladesh         |
+| Software Engineer          | Matrix Software Solutions                   | Aug 2021 - Oct 2022 | Kuala Lumpur, Malaysia    |
 | Research Assistant Intern  | Universiti Teknologi Malaysia               | Oct 2022 - Feb 2023 | Kuala Lumpur, Malaysia    |
 | Web Developer              | Zeto Travel                                 | May 2020 – Jun 2021 | Singapore(Work From Home) |
 | Content Creator            | YouTube                                     | Jan 2016- Running   | Malaysia                  |
@@ -90,7 +91,7 @@ I graduated from Universiti Teknologi Malaysia (UTM) in Software Engineering dep
 1. B.Sc. in Computer Science & Engineering <br>
    <b>Major:</b> Software Engineering  
    Universiti Teknologi Malaysia<br> 
-   Johor Bahru, Malasysia.
+   Johor Bahru, Malaysia.
 </br>
 
 ## 🚀 Social Media:
