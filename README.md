@@ -9,7 +9,7 @@
 ## 🙋‍♀️ About Me
 
 I graduated from Universiti Teknologi Malaysia (UTM) with a degree in Software Engineering, and I'm a <b>Full Stack Web Developer</b>. I'm an expert in <b> MERN (MongoDB, Express JS, React JS, Node JS) stack </b>. My love for software is in coming up with new ideas and turning them into reality via the use of beautiful interfaces. I put a lot of thought into the user experience, architecture, and code quality of the things I make. In addition, I am an open-source fan and user. I learned a lot from the open-source community, and I admire how open-source facilitates cooperation and information exchange.
-<br>   🏠Living: Kuala Lumpur, Malaysia
+<br>   🏠Living: Dhaka, Bangladesh
 
 - 🌱 I’m currently learning Advanced NodeJS, Express JS, and MongoDB.
 - 👨‍ Internship: Universiti Teknologi Malaysia, Kualalumpur, Under UTM CPSRG (Cyber Physical System Research Group).
@@ -19,7 +19,7 @@ I graduated from Universiti Teknologi Malaysia (UTM) with a degree in Software E
 - 👯 I’m looking to collaborate on Software Development. 
 - 🤔 I’m looking for help with Software Development.
 - 💬 Ask me about Software analysis, architecture, implementation, testing, and also C++, Java, JavaScript, and Python.
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/nurul-ismat-tanni/">LinkedIn<a/> | <a href="https://nurul-ismat-tanni.netlify.app/">Portfolio<a/> | <a href="https://www.facebook.com/nurul.ismat.71">Facebook<a/> | <a href="https://wa.me/+60149285738">Whatsapp</a> 
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/nurul-ismat-tanni/">LinkedIn<a/> | <a href="https://nurul-ismat-tanni.netlify.app/">Portfolio<a/> | <a href="https://www.facebook.com/nurul.ismat.71">Facebook<a/> | <a href="https://wa.me/+8801777542674">Whatsapp</a> 
 
 ## 🛠 Languages & Platforms 
 <p align="left"> 
@@ -84,8 +84,6 @@ I graduated from Universiti Teknologi Malaysia (UTM) with a degree in Software E
 <p align="left">
 <a href = "https://www.linkedin.com/in/nurul-ismat-tanni/"><img src="https://img.icons8.com/color/48/linkedin-circled--v1.png"/></a>
 <a href = "https://www.facebook.com/nurul.ismat.71"><img src="https://img.icons8.com/color/48/000000/facebook.png"/></a>
-<a href = "https://twitter.com/NurulIsmatTanni"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-
 <a href = "https://www.youtube.com/channel/UCPqD_DarO1TeKXxy_8FOwig"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 </p>
 </br>
