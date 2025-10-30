@@ -90,7 +90,7 @@ I graduated from Universiti Teknologi Malaysia (UTM) with a degree in Software E
     
 ## 📊 My Github Stats:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanvin-Ahmed)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nurul-ismat)](https://github.com/anuraghazra/github-readme-stats)
 
 
   </br>
