@@ -2,7 +2,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">I'm Nurul Ismat Tanni</h1>
 <h3 align="center">Software Engineer | Full Stack Developer</h3>
 
-## Lover of **JavaScript**
+ Lover of **JavaScript**
 ✨ Experienced with JavaScript and Completed Complex Projects with JavaScript and its frameworks/libraries
 <br>
 
