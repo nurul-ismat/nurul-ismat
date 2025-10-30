@@ -50,14 +50,6 @@ I graduated from Universiti Teknologi Malaysia (UTM) with a degree in Software E
     <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="vs-code" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/netlify.svg" alt="vs-code" width="40" height="40"/> </a> </p>
 </br>
  
-## 👨‍💻 Other Skills & Videos 
-<img align="left" alt="c" title="c playlist" width="45" hspace="5" src="./images/c.svg" />
-<img align="left" alt="c plus plus" title="c++ playlist" width="45" hspace="5" src="./images/cplus.svg" />
-<img align="left" alt="java" title="java playlist" width="45" hspace="5" src="./images/java.svg" />
-<img align="left" alt="android" title="android playlist" width="45" hspace="5" src="./images/android.svg" />
-<img align="left" alt="python" title="python playlist" width="45" hspace="5" src="./images/python.svg" />
-</br>
-</br>
 
 ## 💼 Employment History:
 
