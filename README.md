@@ -93,5 +93,6 @@ I graduated from Universiti Teknologi Malaysia (UTM) with a degree in Software E
 <img src="https://komarev.com/ghpvc/?username=nurul-ismat"></a>
 </br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nurul-ismat" alt="nurul-ismat" /></a> </p>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nurul-ismatcode&layout=compact&langs_count=8&hide_border=true)
+![Top Languages]
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=nurul-ismatcode&layout=compact&langs_count=8&hide_border=true">
 
