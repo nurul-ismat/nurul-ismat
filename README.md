@@ -193,10 +193,8 @@ I am also an open-source enthusiast and value the collaborative nature of the de
 </br>
 
 ## ❤️ Views: 
-
 <a href="https://github.com/nurul-ismat/github-profile-views-counter">
  <img src="https://komarev.com/ghpvc/?username=nurul-ismat&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/> </a>
-</br>
 </br>
 
 ## 💻 Tech Stack & Stats
